@@ -1,0 +1,10 @@
+@import "lib/normalize.scss";
+@import "mixins";
+/* fonts */
+@import "fonts";
+/* main */
+body {
+  background: rgb(179, 155, 155);
+  display: flex;
+  flex-direction: column;
+}
